@@ -16,20 +16,20 @@ const videosData = [
   {
     id: 2,
     title: 'Charla TED conciencia Ambiental',
-    src: "/video2.mp4",
+    src: "/video1.mp4",
   },
 
   {
      id: 3,
      title: 'Contaminacion',
-     src: "contaminacion.mp4",
+     src: "video1.mp4",
 
   },
 
   {
     id: 4,
     title: 'Documental la Brea',
-    src: "/documental.mp4",
+    src: "/video1.mp4",
 
  },
   // Agrega más objetos de datos para tus videos aquí
