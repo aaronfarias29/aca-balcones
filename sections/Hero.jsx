@@ -23,7 +23,7 @@ const Hero = () => (
       <div className="flex justify-center items-center flex-col relative z-10">
         <motion.h1 variants={textVariant(1.1)}
         className={styles.heroHeading}>
-        <span className='custom-gradient'>nort</span>eño
+        <span className='custom-gradient-2'>CONO</span>CE Y
         </motion.h1>
         <motion.div
           variants={textVariant(1.2)}
@@ -50,12 +50,12 @@ const Hero = () => (
 
           <a href="#explore">
               <div className="w-full flex justify-end
-              sm:-mt-[70px] -mt-[50px] pr-[40px] relative
+              sm:-mt-[50px] -mt-[20px] pr-[10px] relative
               z-10">
                 <img 
-                src="/tiburon.png"  
+                src="/people-01.png"  
                 alt="stamp" 
-                className="sm:w-[155px] w-[100px] sm:h
+                className="sm:w-[125px] w-[100px] sm:h
                 [155px] h-[100px] object contain"
                 
                 />
