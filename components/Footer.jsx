@@ -33,7 +33,7 @@ const Footer = () => (
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px] text-white">ACA BALCONES</h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2023 ACA-BALCONES. Todos los derechos reservados.
+            Copyright © 2024 ACA-BALCONES. Todos los derechos reservados.
           </p>
           <div className="flex gap-4">
             {socials.map((social) => (
@@ -52,4 +52,6 @@ const Footer = () => (
 );
 
 export default Footer;
+
+
 
