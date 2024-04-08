@@ -23,7 +23,7 @@ const Explore = () => {
       className={`${styles.innerWidth} mx-auto flex flex-col`}
       >
       <TypingText title="| NOVEDADES ACA!" textStyles="text-center"/>
-      <TitleText title={<>Lo maravilloso que presentamos <br className="md:block hidden" />Explorar</>} 
+      <TitleText title={<>Lo maravilloso que podemos <br className="md:block hidden" />Explorar</>} 
        textStyles="text-center" />
        <div className="mt-[50px] flex lg:flex-row
        flex-col min-h-[70vh] gap-5">
