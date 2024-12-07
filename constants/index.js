@@ -90,7 +90,11 @@ export const socials = [
 export const clients = [
   {
     id: 'cli-1',
+<<<<<<< HEAD
     logo: '/y.png',
+=======
+    logo: '/logo22.png',
+>>>>>>> 68a33a6003fd9b86d8772d8cd5b0364d3485c5a7
   },
 
   {

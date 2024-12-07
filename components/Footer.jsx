@@ -1,11 +1,11 @@
-// Añadir "use client" al principio del archivo para marcar el archivo como un componente de cliente.
-"use client"; 
+
+'use client';
 
 import React from 'react';
-import { motion } from 'framer-motion';  // Importamos el motion para utilizar sus variantes
+import { motion } from 'framer-motion'; // Importar motion desde framer-motion
+import styles from '../styles';
 import { socials } from '../constants';
 import { footerVariants } from '../utils/motion';
-import styles from '../styles';
 
 const Footer = () => (
   <motion.footer
@@ -17,7 +17,7 @@ const Footer = () => (
     <div className="footer-gradient" />
     <div className={`${styles.innerWidth} mx-auto flex flex-col gap-8`}>
       <div className="flex items-center justify-between flex-wrap gap-5">
-        <h4 className="font-bold md:text-[64px] text-[44px] text-white">Conoce Más Nuestro Proyecto</h4>
+        <h4 className="font-bold md:text-[64px] text-[44px] text-white">Conoce Mas Nuestro Proyecto</h4>
         <button
           type="button"
           className="flex items-center h-fit py-4 px-6 bg-[#25618b] rounded-[26px] gap-[12px]"

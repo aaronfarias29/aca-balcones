@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 'use client';
 
+=======
+>>>>>>> 68a33a6003fd9b86d8772d8cd5b0364d3485c5a7
 import React from 'react';
 import styles from '../styles';
 
